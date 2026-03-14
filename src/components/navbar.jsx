@@ -16,16 +16,16 @@ const Navbar = () => {
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-8 text-[18px] font-semibold">
           <li className="cursor-pointer hover:text-orange-500 transition">
-            Bosh Sahifa
+            <a href="#home">Bosh Sahifa</a>
           </li>
           <li className="cursor-pointer hover:text-orange-500 transition">
-            Mahsulotlar
+            <a href="#products">Mahsulotlar</a>
           </li>
           <li className="cursor-pointer hover:text-orange-500 transition">
-            Ko'rgazmalar
+            <a href="#project">Ko'rgazmalar</a>
           </li>
           <li className="cursor-pointer hover:text-orange-500 transition">
-            Aloqa
+            <a href="#contact">Aloqa</a>
           </li>
         </ul>
 
@@ -42,10 +42,10 @@ const Navbar = () => {
       {open && (
         <div className="md:hidden bg-white border-t">
           <ul className="flex flex-col items-center gap-6 py-6 text-lg font-semibold">
-            <li className="hover:text-orange-500">Bosh Sahifa</li>
-            <li className="hover:text-orange-500">Mahsulotlar</li>
-            <li className="hover:text-orange-500">Ko'rgazmalar</li>
-            <li className="hover:text-orange-500">Aloqa</li>
+            <li className="hover:text-orange-500"><a href="#home">Bosh Sahifa</a></li>
+            <li className="hover:text-orange-500"><a href="#products">Mahsulotlar</a></li>
+            <li className="hover:text-orange-500"><a href="#project">Ko'rgazmalar</a></li>
+            <li className="hover:text-orange-500"><a href="#contact">Aloqa</a></li>
           </ul>
         </div>
       )}
