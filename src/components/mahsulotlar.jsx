@@ -11,7 +11,7 @@ const products = [
       "Group size: 5 – 15 guests",
     ],
     image:
-      "https://ydk1tcgolp.ufs.sh/f/WL8eQfpTCliYbqA0SbyXRWcZD1KCvTyp7dSUfF3eroM9QLHA",
+      "https://ydk1tcgolp.ufs.sh/f/WL8eQfpTCliY3lQdIaWIV6k0JtSX7eqifwbUYD4GT2MrnxyC",
   },
   {
     id: 2,
