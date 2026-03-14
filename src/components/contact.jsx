@@ -24,7 +24,7 @@ const aloqa = [
 
 const Aloqa = () => {
   return (
-    <section className="bg-[#f4efe8] py-24" id="#contact">
+    <section className="bg-[#f4efe8] py-24" id="contact">
       <div className="max-w-3xl mx-auto px-4">
         {/* Title */}
         <div className="text-center mb-16">

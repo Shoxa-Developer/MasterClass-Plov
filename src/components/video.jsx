@@ -2,7 +2,7 @@ import React from "react";
 
 const Video = () => {
   return (
-    <section className="w-full py-20" id="#project">
+    <section className="w-full py-20" id="project">
       <div className="max-w-7xl mx-auto px-4">
         {/* Title */}
         <div className="text-center mb-10">

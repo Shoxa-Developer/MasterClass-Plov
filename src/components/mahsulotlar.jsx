@@ -42,7 +42,7 @@ const products = [
 
 const Mahsulotlar = () => {
   return (
-    <section className="bg-[#f6f1ea] py-20" id="#products">
+    <section className="bg-[#f6f1ea] py-20" id="products">
       <div className="max-w-7xl mx-auto px-4">
         {/* Title */}
         <div className="text-center mb-20">

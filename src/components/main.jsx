@@ -3,7 +3,7 @@ import React from "react";
 
 const Main = () => {
   return (
-    <section className="bg-[#f5f3ef] min-h-screen flex items-center" id="#home">
+    <section className="bg-[#f5f3ef] min-h-screen flex items-center" id="home">
       <div className="max-w-7xl mx-auto grid w-full md:grid-cols-2 gap-10 items-center justify-between">
         {/* Left Side */}
         <div className="space-y-6">
